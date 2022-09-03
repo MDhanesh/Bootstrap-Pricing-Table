@@ -68,7 +68,7 @@ function Card() {
                     </li>
                   </ul>
                   <div className="d-grid">
-                    <a href="#" className="btn btn-primary text-uppercase">
+                    <a href={"#"} className="btn btn-primary text-uppercase">
                       Button
                     </a>
                   </div>
@@ -137,7 +137,7 @@ function Card() {
                     </li>
                   </ul>
                   <div className="d-grid">
-                    <a href="#" className="btn btn-primary text-uppercase">
+                    <a href={"#"} className="btn btn-primary text-uppercase">
                       Button
                     </a>
                   </div>
@@ -206,7 +206,7 @@ function Card() {
                     </li>
                   </ul>
                   <div className="d-grid">
-                    <a href="#" className="btn btn-primary text-uppercase">
+                    <a href={"#"} className="btn btn-primary text-uppercase">
                       Button
                     </a>
                   </div>
